@@ -22,8 +22,6 @@ A **Verilog-based Finite State Machine (FSM)** that simulates a secure **4-digit
 
 ## 📁 Files Structure
 
-```
-
 PasswordLockFSM/
 │
 ├── PasswordLockFSM.v         # Main FSM module
@@ -31,7 +29,6 @@ PasswordLockFSM/
 ├── PasswordLockFSM.vcd       # Generated waveform (from simulation)
 ├── README.md                 # Project Summary
 
-````
 
 ---
 
